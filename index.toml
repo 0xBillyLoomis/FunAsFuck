@@ -1502,9 +1502,11 @@ hash = "1747a8348e69751b209924797032998134e3f73ff8ff9a90aae9799b3abecadb"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r2.2.zip"
-hash = "0d9b3a9c95577aadd330478530578d761eef6995343d12a17e39254b05f9d2a7"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe8f8397972fae35ca9f8fd719c5a96a5e1653fb9cd9aefb89604be8ed414e69"
+metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.7.2.zip"
-hash = "33781e830b5ae1ebee2156f7d5011ef1697de5661c3e8b9a118ec78ac1797b57"
+file = "shaderpacks/complementary-shaders.pw.toml"
+hash = "d421c9a202da84bd94bd32a05abd63274def6510cc5a50efc6993c6b75ffe7e6"
+metafile = true
