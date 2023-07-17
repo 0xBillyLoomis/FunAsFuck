@@ -3,3 +3,15 @@
 
 # Exclude README
 /README.md
+
+# Exclude .github
+.github/
+
+# Exclude .git
+.git/
+
+#Exclude .gitignore
+/.gitignore
+
+#Exclude .gitattributes
+/.gitattributes
