@@ -38,4 +38,3 @@ jobs:
         prerelease: false
         files: |
             *.zip
-        id: 'automatic_releases'
