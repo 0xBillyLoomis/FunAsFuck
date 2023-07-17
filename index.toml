@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/pre-release.yml"
+hash = "cc4d67796d5dfc8b9da8356231371c44cd35d8d9274193f9e77ecece26c93563"
+
+[[files]]
+file = ".github/workflows/tagged-release.yml"
+hash = "e9393efc00843ff555aa8c6d2c19f003329621063633b20d409e4860b2b8213e"
+
+[[files]]
 file = "config/Advancedperipherals/peripherals.toml"
 hash = "177b19d3b36536f64e1b1bebc2875f653a9032205d0735862da801745fd46419"
 
@@ -499,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "f7c4333722dca8096290dc81394d3466844f2ec6912555b8127e454f1c0459a2"
+metafile = true
+
+[[files]]
+file = "mods/creeperhost-presents-soul-shards.pw.toml"
+hash = "baa96bed8f1d1ecd6943d0079d4625ba5e8d373a33583c1a10062479faeff4ea"
 metafile = true
 
 [[files]]
@@ -1134,6 +1147,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "cb63ec942e74f978edb0555b7d4672529a02e77be82d0af2386e9ab5cf158534"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "2606299d22de0bfa1219565e46826be00e5550289d222dcdd4a57e2d26df218f"
 metafile = true
 
 [[files]]
