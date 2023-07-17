@@ -1,13 +1,13 @@
 name = "Exchangers"
-filename = "Exchangers-1.20.1-3.4.1.jar"
+filename = "Exchangers-1.20.1-3.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf10a985685ee5cc70616de667d58acc0bf434f9"
+hash = "842d548e99f35bed97c318c2d178ec378708f795"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4631738
+file-id = 4649190
 project-id = 270183
