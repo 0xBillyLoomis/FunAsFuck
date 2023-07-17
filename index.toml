@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/pre-release.yml"
-hash = "cc4d67796d5dfc8b9da8356231371c44cd35d8d9274193f9e77ecece26c93563"
-
-[[files]]
-file = ".github/workflows/tagged-release.yml"
-hash = "e9393efc00843ff555aa8c6d2c19f003329621063633b20d409e4860b2b8213e"
-
-[[files]]
 file = "config/Advancedperipherals/peripherals.toml"
 hash = "177b19d3b36536f64e1b1bebc2875f653a9032205d0735862da801745fd46419"
 
