@@ -1,13 +1,13 @@
 name = "Iron's Spells 'n Spellbooks"
-filename = "irons_spellbooks-1.20.1-1.1.7.jar"
+filename = "irons_spellbooks-1.20.1-1.1.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "425dec136bdfa84964599935329ce4907fd3a27d"
+hash = "07ab40ae5a474fc24782d9d107b2685c058692aa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4629398
+file-id = 4650050
 project-id = 855414

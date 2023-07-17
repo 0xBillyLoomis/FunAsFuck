@@ -1,13 +1,13 @@
 name = "Super Factory Manager ( SFM )"
-filename = "Super Factory Manager-1.20-4.10.2.jar"
+filename = "Super Factory Manager-1.20-4.11.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ba77f335f9fd99699ed5da8d7c8db0084c781eb7"
+hash = "8b00fedbfd0588f950dd08f2387fe0b342f9bc62"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4581173
+file-id = 4643282
 project-id = 306935

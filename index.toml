@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "40a8daf24804d9bd0f78a5248a8a38a14250eeaed8d1736a4333e7336408ea17"
+hash = "e0862e0f7584da1dea37239d50e97b9a1ea9f0ac1d589fbc441c11894f1c787f"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "350dcb7926cc417e97153415015736611ea068f2fb0b1d60bf05530557ceab7b"
+hash = "7d6877a6f0ccb9a870f4bf360d2655d40f11af5daf9bc6cdb994f528febae863"
 metafile = true
 
 [[files]]
@@ -348,12 +348,12 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "081ed8bab4c2cc1d326067ceb14bd6375151d9f3e8add11869f82ad445b69696"
+hash = "5b088e4561e772247f3743f536122c8cdddef93bfb3a311799bc6edfc536afc2"
 metafile = true
 
 [[files]]
 file = "mods/botany-trees.pw.toml"
-hash = "38ea2165c9ceaf33fbb8ee648899e8d9b0911512546fa5d49a13a2dc8bae9590"
+hash = "23211c1283e4cf30d3af372f1571d8a48e44c1dbca546c99e0e2095ef0382361"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "4118d158555fbab8916b4be8d3b15fd7da23b1619f4f9ffcd19532461f92d264"
+hash = "b89a1c413c6c496875ae8685d98713b9cd94670970669d542f5d16ccace5cc2c"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-utilities.pw.toml"
-hash = "195b79fc5f4273406e84a7dc1ed14314a3aecc253ec248f530bae73ef3b6d133"
+hash = "f5d6864d8293f267da2bd808c74c776ea50c462742fa7838d00f967f5fa4b1df"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "e41a799fb1da043359c586404529ca87af2d3d09ae5cd8fc60b0aa8cfb1f8d23"
+hash = "6caa478edd27b9cf54111c0a941cc2b8124186e96552cb8f0c783d81b762e011"
 metafile = true
 
 [[files]]
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/exchangers.pw.toml"
-hash = "f3b56b48f3b4f5e2b98a0a5306387175c192ef727b0da92adb4a1cc94d66b53b"
+hash = "77bcf3c0a9143b638ddb66459116ebd8616715b609541f5287b11619930f1b0d"
 metafile = true
 
 [[files]]
@@ -733,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/functional-storage.pw.toml"
-hash = "578f9744ec68be4341cd4fd9d7b037129c64e0ac1e36fe09b8a5599f23823a6f"
+hash = "d91d06403b67439d3291fe81bc0907712746c8cdfa58e38d0d9a26970b9fe493"
 metafile = true
 
 [[files]]
@@ -813,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "5b0885a5d23b54e9d73763bfcede4b5b06037dbfaf6174c99df209910d8db55f"
+hash = "2ca3f01776588fd7b75ee704f5d376f7f01052cb7e25e31265bea5ab057ad7fd"
 metafile = true
 
 [[files]]
@@ -978,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "329f3537d6aad846cc06ca4411af34ba6dbe8b6f737f1e94bea3b58984127305"
+hash = "9083065a9b28476cff69bd7cf0f2077cbd6fcb51ea7e342c0f633e5547e70c9a"
 metafile = true
 
 [[files]]
@@ -1113,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/pig-pen-cipher.pw.toml"
-hash = "98ae298b3f209032641c821f1e91d8134ed504a83a8f78df5d475e428e62627d"
+hash = "2621b14755e88ce52f22fea38a1c9a26e76d31ff75e3e0ff3dbb42720c5e4e9a"
 metafile = true
 
 [[files]]
@@ -1248,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "mods/roots-classic.pw.toml"
-hash = "d0a5dbae0e02714ede0a84745eeb3b0491a1a6de1146cca3c54f93d4b3715086"
+hash = "268086bc204b1aaa8d76e968eb047dd1bb1aa5044d2bcaa05e1216bac3465471"
 metafile = true
 
 [[files]]
@@ -1268,7 +1268,7 @@ metafile = true
 
 [[files]]
 file = "mods/runelic.pw.toml"
-hash = "50c57dedb7b5ddcc8309c3e00fc453950714897045e99ae63d9d3c306e823c96"
+hash = "5ce8d3854b3287b2f9cc2677dc208b24bb1f3b5c49a8ea9771942152b880331f"
 metafile = true
 
 [[files]]
@@ -1368,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/super-factory-manager.pw.toml"
-hash = "adf4ef75f9bddbe53e5fa21c12a7a2c5a4997689fdfe9825a5cc976c4afb8db9"
+hash = "4b3b3bda387654694034e3047ab19f017fbe649e85ffdbe5c67e7d7a6b5919dc"
 metafile = true
 
 [[files]]
@@ -1383,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e38e4e72eea680f2f19eccde6e17d9b1e99e0c9e087ba38e2864e6d95e919684"
+hash = "a3e278b7dca2cce3fdf2826cbc65ce344a2b9bf827dfddc2c67ab5aeb6207fbe"
 metafile = true
 
 [[files]]
@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "deca314b01ebe03d42d6232a86e1c9177cfd2bc6fdf3a6ce14139b5778c06963"
+hash = "f6af4101c244f33b873bbbddb3781fdf367e4ab6fe2406aa56c6e9c7600e4737"
 metafile = true
 
 [[files]]
@@ -1505,6 +1505,10 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "1747a8348e69751b209924797032998134e3f73ff8ff9a90aae9799b3abecadb"
 metafile = true
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c3fd3ebd62868feff73e4db4816272d1d8dab251456a3f8fdcfaaeedd719583a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
