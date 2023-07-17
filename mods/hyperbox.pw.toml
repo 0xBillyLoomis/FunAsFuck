@@ -1,0 +1,13 @@
+name = "Hyperbox"
+filename = "hyperbox-1.20.1-4.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "590f9b72f864a69a8ed607027715f9bb698e4224"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4607520
+project-id = 435405

@@ -1,0 +1,13 @@
+name = "RFTools Utility"
+filename = "rftoolsutility-1.20-6.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aca1e1a46f28246956f08f174b88d9078da1cb70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4598250
+project-id = 342466

@@ -1,0 +1,13 @@
+name = "FlickerFix"
+filename = "flickerfix-1.20-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b607068f86906de93bcf6410a2b4001ebbb0a97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4575065
+project-id = 431430

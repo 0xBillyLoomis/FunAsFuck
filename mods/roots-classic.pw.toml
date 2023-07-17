@@ -1,0 +1,13 @@
+name = "Roots Classic"
+filename = "RootsClassic-1.20-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4678a7f31e096d9144cb440778496a202cc6631"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4579374
+project-id = 295780

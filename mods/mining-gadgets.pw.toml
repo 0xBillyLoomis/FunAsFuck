@@ -1,0 +1,13 @@
+name = "Mining Gadgets"
+filename = "mininggadgets-1.15.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99c20d69ef9fab81c689a0ceaf45a9f3155a12d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4617331
+project-id = 351748
