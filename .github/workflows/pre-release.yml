@@ -1,0 +1,38 @@
+name: "pre-release"
+
+on:
+  push:
+    branches:
+      - "dev"
+
+jobs:
+  pre-release:
+    permissions: write-all
+    name: "Pre Release"
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.19
+
+    - name: Install packwiz
+      run: go install github.com/packwiz/packwiz@latest
+
+    - name: Build and Export
+      run: | 
+        packwiz curseforge export
+        echo "done!"
+      
+    - uses: "marvinpinto/action-automatic-releases@latest"
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "latest"
+        prerelease: true
+        title: "Pre-Release Pack"
+        files: |
+            *.zip
