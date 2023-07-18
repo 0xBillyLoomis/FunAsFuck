@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "e7058b3f1662ee8f9553a6d3d473250fec94a1bb992896db8b770078539095c4"
+hash = "d3051abaf2b043eec9dc588ba91123c14a40234625679c5870180c264a72d48f"
 metafile = true
 
 [[files]]
@@ -1530,10 +1530,6 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "1747a8348e69751b209924797032998134e3f73ff8ff9a90aae9799b3abecadb"
 metafile = true
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c3fd3ebd62868feff73e4db4816272d1d8dab251456a3f8fdcfaaeedd719583a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
