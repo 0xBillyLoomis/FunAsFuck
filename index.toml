@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "e7058b3f1662ee8f9553a6d3d473250fec94a1bb992896db8b770078539095c4"
+hash = "d3051abaf2b043eec9dc588ba91123c14a40234625679c5870180c264a72d48f"
 metafile = true
 
 [[files]]
@@ -683,12 +683,17 @@ metafile = true
 
 [[files]]
 file = "mods/flib.pw.toml"
-hash = "65523dc245b93142c3033e24c24801db839b5f2069fd825108330008f55f25c9"
+hash = "d6edca589e05f0dc498111193ebd8274f15dc7a80cd1a1236a0ab401fda72633"
 metafile = true
 
 [[files]]
 file = "mods/flickerfix.pw.toml"
 hash = "08c1c12aeaa334f3c28f8ea7c59947249800d3813c2be2427235e2ef1d46dc58"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
 metafile = true
 
 [[files]]
@@ -774,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/hyperbox.pw.toml"
 hash = "35eb6c3ddeb98384a8192ffd3d61a403345649648542fe3ab0d841b8a0e66e3e"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "9f7e7770086d1e28c0469dac25ade97231842351c23c9e09911a2d4e350440d8"
 metafile = true
 
 [[files]]
@@ -877,6 +887,11 @@ hash = "78c8b723e72960fd859bbf17121ffcf4778794f102b0c49c599845865505bf5e"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "73cb69e76bd1f4483fb3d67d2ccb5c780f014c118d7a1be456230f02084b8762"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "9c8c9d0ff5a0c7dbca556a896f241179f29e234f618b608883c90d1740ee1022"
 metafile = true
@@ -909,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "a72b4cce6c4c370313326aa7f838bc4d12e9c207fd2a2b6acc2a9683b8ee6641"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "2f496bb621dfb96749e2871ebc28edce95d96d7446775d4acba8fa46e2b353e2"
 metafile = true
 
 [[files]]
@@ -1163,7 +1183,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
-hash = "5e60186622c3a622da01a3ea5a602a10301d3ababd5a27d7fe1c7ea024a97cc1"
+hash = "b92705dd6c13490d14e7c96e01fd1f2fd726f7974da13311ae98c79b0a6c6137"
 metafile = true
 
 [[files]]
@@ -1288,7 +1308,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6e4cb86fd90ded7e1fc914100acb1b4a566ae16bc3425d24794fd1ddab1ed214"
+hash = "add73794cf9052bf6e142194a6f0d52b0b34f5142b45ca560d4e7a8dfb8e2068"
 metafile = true
 
 [[files]]
@@ -1357,6 +1377,11 @@ hash = "95911766ea12b8a51bc720a82e3f6a206ab898af191d40547ef57005c06d4fa4"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "2fbb567ed29a27a717a22461ef0868d17963ced0af6ab836c3025faae5b374e1"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "e74d5a49843af3b6c1db7185aa3a01d9701528cbc3f8a17ddfd4879f00fb70de"
 metafile = true
@@ -1383,7 +1408,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a3e278b7dca2cce3fdf2826cbc65ce344a2b9bf827dfddc2c67ab5aeb6207fbe"
+hash = "551c0732c8b7f4ac758976478cfd9f57edce35ead464c89c4d71a86c78c7e842"
 metafile = true
 
 [[files]]
@@ -1505,10 +1530,6 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "1747a8348e69751b209924797032998134e3f73ff8ff9a90aae9799b3abecadb"
 metafile = true
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c3fd3ebd62868feff73e4db4816272d1d8dab251456a3f8fdcfaaeedd719583a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
