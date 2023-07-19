@@ -783,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "9f7e7770086d1e28c0469dac25ade97231842351c23c9e09911a2d4e350440d8"
+hash = "1d2d9c812d65bafd3942569828743b0f7b261307342407d255bd4ea5e184bbd1"
 metafile = true
 
 [[files]]
@@ -888,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "73cb69e76bd1f4483fb3d67d2ccb5c780f014c118d7a1be456230f02084b8762"
+hash = "d9b41fbdf1019da117bd5d99446c488066218f8b5b0788a1f1a364c086a37452"
 metafile = true
 
 [[files]]
@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "03c7da4dae5cb6748ea215c05508cbbf8a00f38032e4d1895ce0deac52353a5d"
+hash = "465bba8e31e721911145b3e861b3825b56d1bd41bb9a9fe2cfea6a4932c71d85"
 metafile = true
 
 [[files]]
@@ -1533,10 +1533,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "fe8f8397972fae35ca9f8fd719c5a96a5e1653fb9cd9aefb89604be8ed414e69"
+hash = "0dcb6f9468e885b75d93ea7cd1e32df75c77315df1bc4dc5e2b0348bddb5dd70"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "d421c9a202da84bd94bd32a05abd63274def6510cc5a50efc6993c6b75ffe7e6"
+hash = "7e356310de1b902d130b256027d77073b4b913c2d5bcef84da50d0820748fec2"
 metafile = true
