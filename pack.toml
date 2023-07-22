@@ -1,12 +1,12 @@
 name = "FASF"
 author = "OGBillyLoomis"
-version = "0.0.6"
+version = "0.0.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3640906be11b15026ea49f01fca428bf16c6d8463ae2c949d81591fc46cf7a47"
+hash = "fa0edb7b53d7ff917295cc8ed6fc2ab2df7587041cf5622f14cfb81d6e47c39c"
 
 [versions]
 forge = "47.1.3"

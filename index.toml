@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/alchemistry.pw.toml"
-hash = "2774faea5ce1b7db58cdfbd9bda11d73a51715d7a3433762a0df898dfe990965"
+hash = "09be0daf86d04c5910f206e9b59f8c35e5a1b8572576b2d52f947cbfe9e198b1"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "e0862e0f7584da1dea37239d50e97b9a1ea9f0ac1d589fbc441c11894f1c787f"
+hash = "2ba961aa104bc59e9157aeadf8eb53a882b81f363df96bd1bb8f7ee1fcdb591e"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "d3051abaf2b043eec9dc588ba91123c14a40234625679c5870180c264a72d48f"
+hash = "f392b93e42b9da3c83a3f98a061500a72931d8a848ac66ff15ea2f8669ce8e0d"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "6caa478edd27b9cf54111c0a941cc2b8124186e96552cb8f0c783d81b762e011"
+hash = "90504494f6009da3ffd26047f39f776c90ff33635539cf0ab65b6b04ad7bb5de"
 metafile = true
 
 [[files]]
@@ -698,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "6376c792898072845f4c551976a6e860df8f18e32839deec27b9fbc70a40ff72"
+hash = "d63236c48dfff224c503588e0196c67df6a818799a3613e2d291c6d5596d26b4"
 metafile = true
 
 [[files]]
@@ -848,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "0af45d1c6105a275f571928dfd0115d4c4aa3b31778acd40a3306875f4824738"
+hash = "790f2134c51b7aaa607550466155538d85fbb4999123b7c31bedf8d54699474e"
 metafile = true
 
 [[files]]
@@ -983,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "d731902faa6a4085c9568c51ad39216e242ae09efa0863b0007594e3f3b9eb1f"
+hash = "82010e2b140c4569f78c54e4a4c750ace382f7ab65f2202b922abb444612a484"
 metafile = true
 
 [[files]]
@@ -1018,12 +1018,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "16f0c39394b078ba121b02c5f9853077661a1c5562568ab5b53d1534a6992dde"
+hash = "564baf4d70f2ee8546cb574f60db03011d33e36add4260058b27d8650f0c47c3"
 metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "7b885e282e519e91f6e4c8f759af10008116f74f68b08915749533b93aea7576"
+hash = "e1b7142fe26c73b091811d2878cdf423395d3a03112c179b8181384047f91d16"
 metafile = true
 
 [[files]]
@@ -1088,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "5ad5bd3e48fab960410cb76903ac091229d986aefe50d644b379c905067c63cb"
+hash = "2559363ef15061fcc641a6854a4f2a59451fa49d6b2054abb55f091b0a6b9c06"
 metafile = true
 
 [[files]]
@@ -1308,7 +1308,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5c51bc1733995e19c43672f622858e241eee2f217329265ec77defc95c1b7d64"
+hash = "714ff73d5470b417ddfa992dabdcce020c223844cbd03f376035463206d61358"
 metafile = true
 
 [[files]]
@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "abd1af95cc58ff420f92505c82c1decfd0c6ca1a88ee7b176e3a46471e9bc276"
+hash = "8660acda41cf23338ecd0b1c11f36a499b0fc4e98e42148c0fb4f038b8895bd9"
 metafile = true
 
 [[files]]
